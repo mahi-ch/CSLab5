@@ -212,4 +212,10 @@ src="http://www.example.com/myscripts.js">
     }
     </script>
   ```
-   
+- The above code should be placed in the "About Me" field of Samy’s profile page, and the Text mode should be enabled before entering the above JavaScript code.
+
+
+
+
+
+
